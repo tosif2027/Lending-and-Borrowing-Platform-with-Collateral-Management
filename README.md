@@ -1,29 +1,23 @@
-Lending & Borrowing Platform with Collateral Management
-Project Overview
-A decentralized smart contract that allows users to deposit collateral in one token and borrow another token against it. The collateral remains locked until the loan is fully repaid, ensuring secure and trustless lending.
+# Lending and Borrowing Platform with Collateral Management
 
-Vision
-To build a transparent, trustless lending protocol where users can leverage their crypto holdings without relinquishing custody, while maintaining safe collateral ratios and minimizing liquidation risks.
+## Project Description
+A decentralized smart contract allowing users to deposit collateral in one token and receive loans in another token, with collateral locked until repayment.
 
-Key Features
-Collateral-backed lending with secure token locking
+## Project Vision
+To create a trustless lending protocol where users can borrow tokens against their crypto holdings while maintaining proper collateral ratios and avoiding third-party custody.
 
-Adjustable collateral ratio set by the contract owner
+## Key Features
+- Collateral-backed loans
+- Adjustable collateral ratio by the owner
+- Full repayment to unlock collateral
+- Liquidation function for unsafe loans
+- Admin can withdraw unused tokens
 
-Collateral unlocks automatically upon full repayment
+## Future Scope
+- Integrate Chainlink price feeds for dynamic collateral valuation
+- Add interest rate calculations
+- Multi-token support for both collateral and loans
+- User dashboard to monitor loan status and health
 
-Liquidation function to handle undercollateralized loans
-
-Admin privileges to withdraw unused tokens
-
-Future Enhancements
-Integration with Chainlink oracles for real-time collateral valuation
-
-Implementation of interest rates based on loan duration
-
-Support for multiple tokens for both collateral and loan assets
-
-Development of a user dashboard to monitor loan health and status
-
-Contract Address
-0x523a2bC407a179780f5efa94AeB2DFd1e65Fc129
+## Contract details
+0x523a2bC407a179780f5efa94AeB2DFd1e65Fc129![alt text](image.png)
