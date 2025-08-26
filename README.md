@@ -25,4 +25,3 @@ To build a secure, trustless system where people can borrow crypto by pledging t
 
 
 
-thank you 
