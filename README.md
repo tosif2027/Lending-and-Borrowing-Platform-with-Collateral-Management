@@ -24,4 +24,3 @@ To build a secure, trustless system where people can borrow crypto by pledging t
 0x523a2bC407a179780f5efa94AeB2DFd1e65Fc129![alt text](image.png)
 
 
-thank you 
